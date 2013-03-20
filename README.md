@@ -5,7 +5,7 @@ A proxy for serving [Twitter Bootstrap](http://twitter.github.com/bootstrap) fil
 
 It serves a `component.json` file and the related files using a Github style end-point as per the [Components Spec](https://github.com/component/component/wiki/Spec).
 
-*Note* The server is currently set-up to serve files from the `3.0.0-wip` branch.
+**Note** The server is currently set-up to serve files from the `3.0.0-wip` branch.
 
 Usage
 -----
@@ -25,7 +25,7 @@ $ node index
 Authors
 -------
 
-*Jeremy Worboys* https://github.com/jeremyworboys
+**Jeremy Worboys** https://github.com/jeremyworboys
 
 License
 -------

@@ -14,7 +14,7 @@ app.configure(function() {
 });
 
 app.get('/', function(req, res) {
-    res.send('Bootstrap Component Server :D');
+    res.redirect('https://github.com/jeremyworboys/bootstrap-components');
 });
 
 

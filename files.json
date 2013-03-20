@@ -1,0 +1,183 @@
+{
+    "variables": {
+        "name": "variables",
+        "styles": ["variables.less"]
+    },
+    "mixins": {
+        "name": "mixins",
+        "styles": ["mixins.less"]
+    },
+    "normalize": {
+        "name": "normalize",
+        "styles": ["normalize.less"]
+    },
+    "scaffolding": {
+        "name": "scaffolding",
+        "styles": ["scaffolding.less"]
+    },
+    "grid": {
+        "name": "grid",
+        "styles": ["grid.less"]
+    },
+    "type": {
+        "name": "type",
+        "styles": ["type.less"]
+    },
+    "code": {
+        "name": "code",
+        "styles": ["code.less"]
+    },
+    "forms": {
+        "name": "forms",
+        "styles": ["forms.less"]
+    },
+    "tables": {
+        "name": "tables",
+        "styles": ["tables.less"]
+    },
+    "dropdowns": {
+        "name": "dropdowns",
+        "styles": ["dropdowns.less"],
+        "scripts": ["bootstrap-dropdown.js"]
+    },
+    "wells": {
+        "name": "wells",
+        "styles": ["wells.less"]
+    },
+    "component-animations": {
+        "name": "component-animations",
+        "styles": ["component-animations.less"]
+    },
+    "close": {
+        "name": "close",
+        "styles": ["close.less"]
+    },
+    "buttons": {
+        "name": "buttons",
+        "styles": ["buttons.less"],
+        "scripts": ["bootstrap-button.js"]
+    },
+    "button-groups": {
+        "name": "button-groups",
+        "styles": ["button-groups.less"]
+    },
+    "alerts": {
+        "name": "alerts",
+        "styles": ["alerts.less"],
+        "scripts": ["bootstrap-alert.js"]
+    },
+    "navs": {
+        "name": "navs",
+        "styles": ["navs.less"]
+    },
+    "navbar": {
+        "name": "navbar",
+        "styles": ["navbar.less"]
+    },
+    "breadcrumbs": {
+        "name": "breadcrumbs",
+        "styles": ["breadcrumbs.less"]
+    },
+    "pagination": {
+        "name": "pagination",
+        "styles": ["pagination.less"]
+    },
+    "pager": {
+        "name": "pager",
+        "styles": ["pager.less"]
+    },
+    "modals": {
+        "name": "modals",
+        "styles": ["modals.less"],
+        "scripts": ["bootstrap-modal.js"]
+    },
+    "tooltip": {
+        "name": "tooltip",
+        "styles": ["tooltip.less"],
+        "scripts": ["bootstrap-tooltip.js"]
+    },
+    "popovers": {
+        "name": "popovers",
+        "styles": ["popovers.less"],
+        "scripts": ["bootstrap-popover.js"]
+    },
+    "thumbnails": {
+        "name": "thumbnails",
+        "styles": ["thumbnails.less"]
+    },
+    "media": {
+        "name": "media",
+        "styles": ["media.less"]
+    },
+    "labels-badges": {
+        "name": "labels-badges",
+        "styles": [
+            "labels.less",
+            "badges.less"
+        ]
+    },
+    "progress-bars": {
+        "name": "progress-bars",
+        "styles": ["progress-bars.less"]
+    },
+    "accordion": {
+        "name": "accordion",
+        "styles": ["accordion.less"]
+    },
+    "carousel": {
+        "name": "carousel",
+        "styles": ["carousel.less"],
+        "scripts": ["bootstrap-carousel.js"]
+    },
+    "jumbotron": {
+        "name": "jumbotron",
+        "styles": ["jumbotron.less"]
+    },
+    "transition": {
+        "name": "transition",
+        "scripts": ["bootstrap-transition.js"]
+    },
+    "affix": {
+        "name": "affix",
+        "scripts": ["bootstrap-affix.js"]
+    },
+    "scrollspy": {
+        "name": "scrollspy",
+        "scripts": ["bootstrap-scrollspy.js"]
+    },
+    "tabs": {
+        "name": "tabs",
+        "scripts": ["bootstrap-tab.js"]
+    },
+    "collapse": {
+        "name": "collapse",
+        "scripts": ["bootstrap-collapse.js"]
+    },
+    "typeahead": {
+        "name": "typeahead",
+        "scripts": ["bootstrap-typeahead.js"]
+    },
+    "utilities": {
+        "name": "utilities",
+        "styles": ["utilities.less"]
+    },
+    "print": {
+        "name": "print",
+        "styles": ["print.less"]
+    },
+    "glyphicons": {
+        "name": "glyphicons",
+        "styles": ["glyphicons.less"],
+        "fonts": [
+            "glyphiconshalflings-regular.eot",
+            "glyphiconshalflings-regular.otf",
+            "glyphiconshalflings-regular.svg",
+            "glyphiconshalflings-regular.ttf",
+            "glyphiconshalflings-regular.woff"
+        ]
+    },
+    "responsive-utilities": {
+        "name": "responsive-utilities",
+        "styles": ["responsive-utilities.less"]
+    }
+}

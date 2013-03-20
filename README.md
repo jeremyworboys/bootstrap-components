@@ -22,6 +22,21 @@ Start server
 $ node index
 ```
 
+Add remote server and dependencies to your `component.json` file
+
+```json
+{
+    "name": "my-component",
+    "remote": [
+        "http://bootstrap-components.herokuapp.com"
+    ],
+    "dependencies": {
+        "bootstrap-components/dropdowns": "*"
+    }
+}
+
+```
+
 Authors
 -------
 

@@ -28,7 +28,7 @@ Add remote server and dependencies to your `component.json` file
 {
     "name": "my-component",
     "remote": [
-        "http://bootstrap-components.herokuapp.com"
+        "localhost:3000"
     ],
     "dependencies": {
         "bootstrap-components/dropdowns": "*"
